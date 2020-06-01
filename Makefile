@@ -16,7 +16,7 @@
 TARGET = cmsis_freertos_stm32f7
 
 
-LIB_OUTFILE  = libcmsis_rtos2_stm32f7.a
+LIB_OUTFILE  = libcmsis_rtos2.a
 
 ######################################
 # building variables
